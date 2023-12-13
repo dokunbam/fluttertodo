@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "939034290081",
+    "project_id": "crud-22344",
+    "storage_bucket": "crud-22344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939034290081:android:55fa93b1b51308d9978de0",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939034290081-j946lun80oq20dpit6g3opqj12a51c48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpZV5KrlditL39-PbqkraQe9s1WesY9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939034290081-j946lun80oq20dpit6g3opqj12a51c48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939034290081-7s0m5oqfdld6kmlbf937l6k22ncshc0t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.eatville"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939034290081:android:106e631c6c4d4b3f978de0",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939034290081-j946lun80oq20dpit6g3opqj12a51c48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpZV5KrlditL39-PbqkraQe9s1WesY9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939034290081-j946lun80oq20dpit6g3opqj12a51c48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939034290081-7s0m5oqfdld6kmlbf937l6k22ncshc0t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.eatville"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939034290081:android:653304ce9347f61e978de0",
+        "android_client_info": {
+          "package_name": "com.mycompany.eatville"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939034290081-8qf0pma5o3aectb4upmutnhp1i7tsgi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.eatville",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "939034290081-j946lun80oq20dpit6g3opqj12a51c48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpZV5KrlditL39-PbqkraQe9s1WesY9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939034290081-j946lun80oq20dpit6g3opqj12a51c48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939034290081-7s0m5oqfdld6kmlbf937l6k22ncshc0t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.eatville"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
